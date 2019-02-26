@@ -331,7 +331,7 @@ Become a sponsor to get your logo on our README. [Become a sponsor][support-url]
 
 Special thanks to Browserstack for their support
 
-<a href='https://www.browserstack.com/'>
+<a href='https://www.browserstack.com/' rel="dofollow">
   <img width='70px' src="https://cdn.worldvectorlogo.com/logos/browserstack.svg" alt="browser stack">
 </a>
 
