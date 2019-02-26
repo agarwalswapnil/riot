@@ -335,6 +335,12 @@ Special thanks to Browserstack for their support
   <img width='70px' src="https://cdn.worldvectorlogo.com/logos/browserstack.svg" alt="browser stack">
 </a>
 
+
+## Thanks2
+<img src="https://cdn.worldvectorlogo.com/logos/browserstack.svg" height="80" title="BrowserStack Logo" alt="BrowserStack Logo" /> 
+
+Big thanks to [BrowserStack](https://www.browserstack.com) for letting the maintainers use their service to debug browser issues.
+
 [travis-image]:https://img.shields.io/travis/riot/riot.svg?style=flat-square
 [travis-url]:https://travis-ci.org/riot/riot
 
